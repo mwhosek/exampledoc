@@ -5,7 +5,7 @@
 
 Welcome to correlate's documentation!
 =====================================
-Here we include documentation for correlate.
+Here we include documentation for correlate. This is a test.
 
 .. toctree::
    :maxdepth: 2
